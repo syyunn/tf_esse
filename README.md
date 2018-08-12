@@ -7,4 +7,8 @@ For the first, draw the "computational" graph, then for the second, run the Sess
 Following is the exactly same thing
 >  To draw a graph  == To define a neural network 
 
+#### More in Detail
+> tf.Operation (node) and tf.Tensor (edge) objects and add them to a tf.Graph
+
+
 ## Weight_initialization
